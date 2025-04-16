@@ -1,4 +1,4 @@
-# Authentication Next.js Tutorial 1
+# Next.js Next Auth Tutorial 1
 
 ## Acknowledgements
 
@@ -16,8 +16,8 @@ While inspired by a YouTube tutorial, I implemented the project with my own codi
 1. Clone this repository and navigate to the project directory:
 
    ```bash
-   git clone https://github.com/ikhsan-farizki/authentication-nextjs-tutorial-1.git
-   cd authentication-nextjs-tutorial-1
+   git clone https://github.com/ikhsan-farizki/next-js-next-auth-tutorial-1.git
+   cd next-js-next-auth-tutorial-1
    ```
 
 2. Install dependencies:
@@ -35,7 +35,7 @@ While inspired by a YouTube tutorial, I implemented the project with my own codi
    AUTH_GITHUB_ID="your-github-client-id"
    AUTH_GITHUB_SECRET="your-github-client-secret"
 
-   DATABASE_URL="file:./authentication-nextjs-tutorial-1.db"
+   DATABASE_URL="file:./next-js-next-auth-tutorial-1.db"
    ```
 
 4. Start the development server:
